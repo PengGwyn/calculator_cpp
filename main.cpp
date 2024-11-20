@@ -10,7 +10,7 @@ int main()
     cin >> num1;
     cout << "Enter the second number: ";
     cin >> num2;
-    cout << "Choose operation: [1] addition, [2] subtraction, [3] multiplication, [4] division: ";
+    cout << "Choose operation: \n[1] addition, \n[2] subtraction, \n[3] multiplication, \n[4] division: ";
     cin >> option;
 
     if (option == 1) // addition
